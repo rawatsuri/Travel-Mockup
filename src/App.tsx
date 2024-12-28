@@ -4,6 +4,7 @@ import Services from './components/Services';
 import Gallery from './components/Gallery';
 import Rooms from './components/Rooms';
 import Booking from './components/Booking';
+import Features from './components/Features';
 import TravelLocations from './components/TravelLocations';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
@@ -17,6 +18,7 @@ export default function App() {
       <Gallery />
       <Rooms />
       <Booking />
+      <Features />
       <TravelLocations />
       <Testimonials />
       <Contact />

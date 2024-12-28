@@ -1,4 +1,4 @@
-import { Utensils, Wine, Coffee, Waves, Dumbbell, Heart } from 'lucide-react';
+import { Utensils, Wine, Coffee, Waves, Dumbbell, Flower2 } from 'lucide-react';
 
 export const services = [
   { 
@@ -18,7 +18,7 @@ export const services = [
     hoverColor: 'hover:bg-blue-100'
   },
   { 
-    icon: Heart, 
+    icon: Flower2, 
     title: 'Luxury Spa', 
     description: 'Rejuvenating treatments and massages',
     bgColor: 'bg-rose-50',
